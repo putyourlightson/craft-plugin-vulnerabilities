@@ -1,8 +1,8 @@
 [ 
 	{
-		handle: "sucker", 
-		name: "Sucker",
-		version: "0.0.1",
-		url: "https://github.com/putyourlightson/craft-plugin-vulnerabilities/tree/master/plugins/sucker",
+		"handle": "sucker", 
+		"name": "Sucker",
+		"version": "0.0.1",
+		"url": "https://github.com/putyourlightson/craft-plugin-vulnerabilities/tree/master/plugins/sucker",
 	}
 ]
