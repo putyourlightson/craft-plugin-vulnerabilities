@@ -1,0 +1,1 @@
+# craft-plugin-vulnerabilities
