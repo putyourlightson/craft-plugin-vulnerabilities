@@ -5,7 +5,7 @@
         "date": "2016-04-01T10:00:00-00:00",
         "notes": [
             "# Bug Fixes",
-            "[Fixed] Fixed a bug that never even existed."
+            "[Fixed] Fixed a fake security bug that never even existed."
         ]
     }
 ]
