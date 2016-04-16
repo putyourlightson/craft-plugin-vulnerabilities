@@ -1,0 +1,11 @@
+[
+    {
+        "version": "0.0.2",
+        "downloadUrl": "https://raw.githubusercontent.com/putyourlightson/craft-plugin-vulnerabilities/master/plugins/dummy/DummyPlugin.php",
+        "date": "2016-04-01T10:00:00-00:00",
+        "notes": [
+            "# Bug Fixes",
+            "[Fixed] Fixed a security bug that never really existed."
+        ]
+    }
+]
