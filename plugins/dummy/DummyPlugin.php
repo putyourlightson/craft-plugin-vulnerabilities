@@ -37,7 +37,7 @@ class DummyPlugin extends BasePlugin
     }
 
     public function getReleaseFeedUrl()
-	{
-		return 'https://raw.githubusercontent.com/putyourlightson/craft-plugin-vulnerabilities/master/plugins/dummy/releases.json';
-	}
+    {
+    	return 'https://raw.githubusercontent.com/putyourlightson/craft-plugin-vulnerabilities/master/plugins/dummy/releases.json';
+    }
 }
