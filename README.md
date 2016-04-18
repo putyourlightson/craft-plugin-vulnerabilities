@@ -1,6 +1,6 @@
 # Craft Plugin Vulnerabilities
 
-Craft plugin vulnerabilities can be listed in a JSON feed. 
+Craft plugin vulnerabilities can be listed in a JSON feed for use with the [Sherlock Plugin](https://www.putyourlightson.net/craft-sherlock). 
 
 The [vulnerabilities.json](https://github.com/putyourlightson/craft-plugin-vulnerabilities/blob/master/vulnerabilities.json) feed is the default feed used by the Sherlock plugin.
 
