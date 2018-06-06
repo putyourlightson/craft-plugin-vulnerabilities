@@ -5,6 +5,6 @@
 		"version": "0.0.1",
 		"fixedVersion": "0.0.2",
 		"description": "Fake bug that contains a vulnerability",
-		"url": "https://github.com/putyourlightson/craft-plugin-vulnerabilities/tree/master/plugins/dummy",
+		"url": "https://github.com/putyourlightson/craft-plugin-vulnerabilities/tree/master/plugins/dummy"
 	}
 ]
